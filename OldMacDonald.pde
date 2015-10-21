@@ -1,6 +1,6 @@
 
-void setup()
+public void setup()
 {
-	//your variable declarations here
+	Farm animalFarm = new Farm(); 
 }
 
